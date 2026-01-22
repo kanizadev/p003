@@ -92,21 +92,6 @@ dependencies:
 - **Scale Animations** - Interactive element feedback
 - **Temperature Counting** - Animated number transitions
 
-## 🔧 Configuration
-
-### API Setup
-1. Sign up at [OpenWeatherMap](https://openweathermap.org/api)
-2. Get your API key
-3. Replace the API key in `weather_service.dart`:
-   ```dart
-   static const String _apiKey = 'YOUR_API_KEY_HERE';
-   ```
-
-### Location Permissions
-The app requires location permissions to fetch weather data:
-- **Android**: Add permissions in `android/app/src/main/AndroidManifest.xml`
-- **iOS**: Add location usage description in `ios/Runner/Info.plist`
-
 ## 🎨 Customization
 
 ### Colors
@@ -136,14 +121,6 @@ Weather icons are provided by the `weather_icons` package. You can customize the
 - ✅ **macOS** - Desktop application
 - ✅ **Linux** - Desktop application
 
-
-
-## 🙏 Acknowledgments
-
-- [OpenWeatherMap](https://openweathermap.org/) for weather data API
-- [Flutter](https://flutter.dev/) for the amazing framework
-- [Google Fonts](https://fonts.google.com/) for Comic Neue font
-- [Weather Icons](https://erikflowers.github.io/weather-icons/) for weather icons
 
 ## 📞 Support
 
