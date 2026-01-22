@@ -31,6 +31,7 @@ A beautiful, modern weather application built with Flutter featuring real-time w
 
 
 ## 📱 Screenshots
+<img src="https://raw.githubusercontent.com/kanizadev/p003/refs/heads/main/Weather%20App%20.gif" hight=446 width=243 />
 
 ### Main Weather Screen
 - Current weather display with large temperature
